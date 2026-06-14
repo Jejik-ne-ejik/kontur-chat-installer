@@ -40,8 +40,8 @@
 | Ярлык в меню «Пуск» | **Создаётся** (имя: **Контур.Чат**) |
 | Запуск после завершения | **Да** — приложение откроется сразу после установки |
 
-![alt text](screenshots/2.png)
-![alt text](screenshots/3.png)
+![alt text](screenshots/2.png)  
+![alt text](screenshots/3.png)  
 ![alt text](screenshots/4.png)
 
 ### Шаг 3. Первый запуск
@@ -189,8 +189,8 @@ SMTP_FROM=messenger@example.com
 
 1. **Параметры** → **Приложения** → **Установленные приложения** (или «Программы и компоненты»).
 ![alt text](screenshots/8.png)
-2. Найдите **Контур.Чат** → **Удалить**.
-![alt text](screenshots/9.png)
+2. Найдите **Контур.Чат** → **Удалить**.  
+![alt text](screenshots/9.png)  
 ![alt text](screenshots/10.png)
 
 Либо запустите деинсталлятор из папки установки (файл вида `Uninstall Контур.Чат.exe`).
